@@ -35,6 +35,10 @@ hugo.linux
 .history
 .ionide
 
+### Node ###
+# Dependency directories
+node_modules/
+
 ### Windows ###
 # Windows thumbnail cache files
 Thumbs.db
